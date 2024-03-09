@@ -1,9 +1,8 @@
 <style>
   body {
     background-color: black;
-    color: white; /* Set text color to white for better visibility on black background */
+    color: white;
   }
 </style>
 
-
-go away
+# Go Away
