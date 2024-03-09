@@ -5,8 +5,9 @@
   }
 </style>
 
-go away
+hi i'm mike. i don't need a website, but this is my website. 
 
-
+# links
+[the ergo podcast](https://open.spotify.com/show/514V9XfuvkagmH1yCt84qK?si=c821c176d71d4c78)
 # contact
-[telegram](https://t.me/rustinmyeye)
+[my telegram](https://t.me/rustinmyeye)
