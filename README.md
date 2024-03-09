@@ -5,4 +5,4 @@
   }
 </style>
 
-# Go Away
+go away
