@@ -1,1 +1,1 @@
-# rustinmyeye.github.io
+# go away
