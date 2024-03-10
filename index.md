@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,7 +14,6 @@
   <h1>Hi, I'm Mike.</h1>
   <p>I don't need a website, but this is my website.</p>
 
-  <!-- Image with alt text -->
   ![Edmundston](edmundston.jpg)
 
   <h2>Links</h2>
