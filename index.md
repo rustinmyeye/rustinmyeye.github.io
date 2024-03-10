@@ -19,5 +19,4 @@ Hi, I'm Mike.
     <li><a href="https://t.me/rustinmyeye">My Telegram</a></li>
     <li>Email - <a href="mailto:mike@rustinmyeye.ca">mike@rustinmyeye.ca</a></li>
   </ul>
-</body>
-</html>
+
