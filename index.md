@@ -1,20 +1,14 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      background-color: black;
-      color: white;
-    }
-  </style>
-  <title>Mike's Website</title>
-</head>
-<body>
-  <h1>Hi, I'm Mike.</h1>
-  <p>I don't need a website, but this is my website.</p>
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
 
-  ![Edmundston](edmundston.jpg)
+hi i'm mike. i don't need a website, but this is my website. 
+
+
+![edmundston](edmundston.jpg)
 
   <h2>Links</h2>
   <ul>
