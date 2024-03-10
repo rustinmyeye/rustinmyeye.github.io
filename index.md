@@ -10,7 +10,7 @@ Hi, I'm Mike.
 
   <h2>Links</h2>
   <ul>
-    <li><a href="https://open.spotify.com/show/514V9XfuvkagmH1yCt84qK?si=c821c176d71d4c78">The Ergo Podcast</a></li>
+    <li><a href="https://open.spotify.com/show/514V9XfuvkagmH1yCt84qK?si=c821c176d71d4c78">The Ergo Podcast</a></li> - 
     <li><a href="https://github.com/rustinmyeye">My GitHub Page</a></li>
   </ul>
 
