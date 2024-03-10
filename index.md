@@ -17,4 +17,4 @@ hi i'm mike. i don't need a website, but this is my website.
 # contact
 [my telegram](https://t.me/rustinmyeye)
 
-email - mike@rustinmyeye.ca
+email - [mike@rustinmyeye.ca](mike@rustinmyeye.ca)
