@@ -16,3 +16,4 @@ hi i'm mike. i don't need a website, but this is my website.
 [my github page](https://github.com/rustinmyeye)
 # contact
 [my telegram](https://t.me/rustinmyeye)
+email - mike@rustinmyeye.ca
