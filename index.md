@@ -4,7 +4,7 @@
     color: white;
   }
 </style>
-Hi, I'm Mike. I dont need a website. Welcome to my website.
+Hi, I'm Mike. I don't need a website. Welcome to my website.
 
 ![edmundston](edmundston.jpg)
 
