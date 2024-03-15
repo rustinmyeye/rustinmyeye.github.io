@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sig Can Applications</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .vote-container {
+            margin-bottom: 40px;
+        }
+        .full-record-link {
+            color: white;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sig Can Applications</h1>
+
+    <div id="votesContainer"></div>
+
+    <script>
+        // Function to fetch votes from the URL
+        function fetchVotes() {
+            var url = 'https://my.ergoport.dev/cgi-bin/ergo/list_votes.pl?a=';
+            fetch(url)
+                .then(response => response.text())
+                .then(data => {
+                    // Split data into individual entries
+                    var entries = data.split('-----------------------------------');
+                    
+                    // Filter entries to display only Sig can votes
+                    var sigCanEntries = entries.filter(entry => entry.includes('sigcan vote:'));
+                    
+                    // Reverse the order of entries to display newest at the top
+                    sigCanEntries.reverse();
+                    
+                    // Modify entries to remove any "View full record" links
+                    var formattedEntries = sigCanEntries.map(entry => {
+                        var recordIndex = entry.indexOf('View full record');
+                        var vote = entry.slice(0, recordIndex);
+                        return vote;
+                    });
+                    
+                    // Join the modified entries and display them
+                    var sigCanContent = formattedEntries.join('<br><br>');
+                    document.getElementById('votesContainer').innerHTML = sigCanContent;
+                })
+                .catch(error => console.error('Error fetching votes:', error));
+        }
+
+        // Call fetchVotes function when the page loads
+        window.onload = fetchVotes;
+    </script>
+</body>
+</html>
