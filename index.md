@@ -12,7 +12,10 @@ Hi, I'm Mike. I don't need a website. Welcome to my website.
   <ul>
     <li><a href="https://open.spotify.com/show/514V9XfuvkagmH1yCt84qK?si=c821c176d71d4c78">The Ergo Podcast</a> - This is an audio podcast of the content from the Ergo Platform YouTube channel. </li>
     <li><a href="https://github.com/rustinmyeye">My GitHub Page</a></li> 
-    <li><a href="https://rustinmyeye.ca/sigmining/">Sig pool</a> - Quick access to the Sigmanaut mining pool api. </li> 
+    <li><a
+href="https://rustinmyeye.ca/sigmining/">Sig pool</a> - Quick access to the Sigmanaut mining pool api. </li>
+    <li><a
+href="https://rustinmyeye.ca/sigmining/">Sig pool</a> - Quick access to the Sigmanaut mining pool api. </li> 
   </ul>
 
   <h2>Contact</h2>
