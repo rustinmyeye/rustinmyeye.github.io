@@ -15,7 +15,7 @@ Hi, I'm Mike. I don't need a website. Welcome to my website.
     <li><a
 href="https://rustinmyeye.ca/Sigcans/">SigCans</a> - New SigCan applications. </li>
     <li><a
-href="https://rustinmyeye.ca/sigmining/">Sig pool</a> - Quick access to the Sigmanaut mining pool api. </li> 
+href="https://rustinmyeye.ca/sigmining/">Sig pool</a> - Super simple sig pool mining stats. </li> 
   </ul>
 
   <h2>Contact</h2>
